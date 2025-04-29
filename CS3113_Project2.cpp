@@ -1,5 +1,3 @@
-// CS 3113 Professor Radhakrishnan
-// @authors: Xavier Williams - University of Oklahoma 2025
 
 #include <iostream>
 #include <queue>
